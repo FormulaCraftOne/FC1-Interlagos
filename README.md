@@ -14,9 +14,7 @@ And here is the link to his planetminecraft profile: https://www.planetminecraft
 Post your fastest time here! The Appleseed Discord
 https://discord.gg/paeBnG8Csd
 
-FC1 TEXTURE PACK - Credit to bulldozor and shadocobra for creating many of these textures!
-https://www.mediafire.com/file/i4izgi65y8zm9eo/FC1.zip/filehttps://we.tl/t-DsyCNvfCKt
-226
+[FC1 TEXTURE PACK][dl-texture] - Credit to bulldozor and shadocobra for creating many of these textures!
 
 Credit to the builders:
 - MosquitoFRA
@@ -30,3 +28,4 @@ Credit to the builders:
 
 
 [dl-latest]: https://github.com/FormulaCraftOne/FC1-Interlagos/releases/latest/download/FC1.Interlagos.zip
+[dl-texture]: https://github.com/FormulaCraftOne/FC1-TexturePack/releases/latest/download/FC1.TexturePack.zip
