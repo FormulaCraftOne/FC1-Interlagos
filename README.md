@@ -27,5 +27,5 @@ Credit to the builders:
 *Enjoy the drive!*
 
 
-[dl-latest]: https://github.com/FormulaCraftOne/FC1-Interlagos/releases/latest/download/FC1.Interlagos.zip
+[dl-latest]: https://github.com/FormulaCraftOne/FC1-Interlagos/releases/latest/download/world.zip
 [dl-texture]: https://github.com/FormulaCraftOne/FC1-TexturePack/releases/latest/download/FC1.TexturePack.zip
