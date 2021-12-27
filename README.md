@@ -1,7 +1,8 @@
 
 # FC1 Brazilian Grand Prix
 
-[![](https://img.shields.io/badge/-Direct%20Downlod-brightgreen?style=for-the-badge)][dl-latest] [![](https://img.shields.io/badge/-PlanetMinecraft-blue?style=for-the-badge&)][planetmc]
+
+[![][badge-dl]][dl-latest] [![][badge-planetmc]][planetmc]
 
 
 ![](https://user-images.githubusercontent.com/43221920/147309064-7a8766f6-f891-46b8-bdae-e65855b72ec7.jpg)
@@ -14,11 +15,12 @@
 As F1 pulls up to the Brazilian Grand Prix, the Minecraft Ice Boat Racing series follows! This is a recreation of Autódromo José Carlos Pace with various fantasy elements to make for a good ice boat racing map.
 
 Big thanks to MosquitoFRA for creating the basis of this map!
+
 Go check out the original map at https://www.planetminecraft.com/project/aut-dromo-de-interlagos-brazil-1-12/
+
 And here is the link to his planetminecraft profile: https://www.planetminecraft.com/member/mosquitofra/
 
-Post your fastest time here! The Appleseed Discord
-https://discord.gg/paeBnG8Csd
+Post your fastest time here! [The Appleseed Discord][join-discord]
 
 [FC1 TEXTURE PACK][dl-texture] - Credit to bulldozor and shadocobra for creating many of these textures!
 
@@ -33,6 +35,15 @@ Credit to the builders:
 *Enjoy the drive!*
 
 
+
+<!-- link refrences (repo-specific)-->
 [dl-latest]: https://github.com/FormulaCraftOne/FC1-Interlagos/releases/latest/download/world.zip
-[dl-texture]: https://github.com/FormulaCraftOne/FC1-TexturePack/releases/latest/download/FC1.TexturePack.zip
 [planetmc]: https://www.planetminecraft.com/project/f1-brazilian-grand-prix-ice-boat-racing-track-1-17-1/
+<!-- [yt-vidlink]:  -->
+<!-- [yt-thumbnail]:  -->
+
+<!-- link refrences (not repo-specific)-->
+[dl-texture]: https://github.com/FormulaCraftOne/FC1-TexturePack/releases/latest/download/FC1.TexturePack.zip
+[join-discord]: https://discord.gg/paeBnG8Csd
+[badge-dl]: https://img.shields.io/badge/-Direct%20Downlod-brightgreen?style=for-the-badge
+[badge-planetmc]: https://img.shields.io/badge/-PlanetMinecraft-blue?style=for-the-badge
