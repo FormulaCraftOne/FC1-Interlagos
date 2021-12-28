@@ -37,7 +37,7 @@ Credit to the builders:
 
 
 <!-- link refrences (repo-specific)-->
-[dl-latest]: https://github.com/FormulaCraftOne/FC1-Interlagos/releases/latest/download/world.zip
+[dl-latest]: https://git.io/FC1-Interlagos
 [planetmc]: https://www.planetminecraft.com/project/f1-brazilian-grand-prix-ice-boat-racing-track-1-17-1/
 <!-- [yt-vidlink]:  -->
 <!-- [yt-thumbnail]:  -->
